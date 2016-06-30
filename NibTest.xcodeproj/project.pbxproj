@@ -109,7 +109,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "Ghost in the Shell";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					E6C201001D25B96B00CB4A65 = {
 						CreatedOnToolsVersion = 7.3.1;
